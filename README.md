@@ -30,7 +30,11 @@
 </a>
 
 <a href="#">
-    <img align="left" alt="Epic Games" title="Epic Games - PeterTheHan" height="22px" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/epicgames.svg">
+    <img align="left" alt="Epic Games" title="Epic Games - BRAINIFII" height="22px" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/epicgames.svg">
+</a>
+
+<a href="#">
+    <img align="left" alt="Epic Games" title="Epic Games - BRAINIFII" height="22px" width="22px" src="https://raw.githubusercontent.com/brainifii/brainifii/master/Static/valo.svg">
 </a>
 
 </div>
