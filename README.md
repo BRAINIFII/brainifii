@@ -35,5 +35,11 @@
 
 </div>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=brainifii.brainifii) 
-![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=brainifii.brainifii)
+
+</br>
+
+<p align="center">
+</br>
+<img src="https://github-readme-stats.vercel.app/api?username=BRAINIFII&show_icons=true&bg_color=0D1117&text_color=D9D9D9&border_radius=30&include_all_commits=true&count_private=true&custom_title=My GitHub Stats" alt="BRAINIFII" />
+</p>
