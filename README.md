@@ -64,4 +64,10 @@ Aliquam felis nunc, fringilla ut tincidunt eu, sollicitudin eu arcu.Mauris place
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+<<<<<<< HEAD
+=======
+```text
+No Activity tracked this Week
+```
+>>>>>>> 909a388c4ef216fe653570a4575978e4f022374b
 <!--END_SECTION:waka-->
