@@ -35,7 +35,7 @@
 </a>
 
 <a href="#">
-    <img align="left" alt="Epic Games" title="Epic Games - BRAINIFII" height="22px" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/epicgames.svg">
+    <img align="left" alt="Epic Games" title="Epic Games - BRAINIFII" height="22px" width="22px" src="https://raw.githubusercontent.com/brainifii/brainifii/master/Static/epic.svg">
 </a>
 
 <a href="#">
