@@ -3,35 +3,35 @@
 <div align="center">
 
 <a href="https:/www.instagram.com/brainifii">
-  <img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/brainifii/brainifii/master/Static/instagram.svg" />
+  <img align="left" alt="Instagram" title="Instagram - BRAINIFII" width="22px" src="https://raw.githubusercontent.com/brainifii/brainifii/master/Static/instagram.svg" />
 </a>
 
 <a href="https://discord.gg/4GyNh3JcRa">
-  <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left"  title="Discord" alt="Discord -BRAINIFII" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
 <a href="https://twitter.com/kritikbangera">
-  <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Twitter" title="Twitter - @kritik.bangera"  width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/brainifii/">
-  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="LinkedIN" title="LinkedIN - Kritik Bangera" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <a href="https://www.facebook.com/kritik.bangera">
-    <img align="left" alt="Facebook" title="Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg">
+    <img align="left" alt="Facebook" title="Facebook - Kritik Bangera" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg">
 </a>
 
 <a href="https://open.spotify.com/user/a7gsun30kczh9p4c4kt4cwqfe?si=6c4fae6b00b6436a">
-  <img align="left" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Spotify" title="Spotify - BRAINIFII"  width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
 <a href="https://youtube.com/brainifii">
-    <img align="left" alt="YouTube" title="YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg">
+    <img align="left" alt="YouTube" title="Youtube - BRAINIFII" title="YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg">
 </a>
 
 <a href="https://steamcommunity.com/id/brainifii">
-    <img align="left" alt="Steam" title="Steam" height="22px" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg">
+    <img align="left" alt="Steam" title="Steam - BRAINIFII" height="22px" width="22px" src="https://raw.githubusercontent.com/brainifii/brainifii/master/Static/steam.svg">
 </a>
 
 <a href="#">
@@ -45,6 +45,10 @@
 </div>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=brainifii.brainifii)
+
+</br>
+
+Hi, I'm Kritik Bangera,
 
 </br>
 
