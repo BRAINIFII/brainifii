@@ -39,20 +39,35 @@
 </a>
 
 <a href="#">
-    <img align="left" alt="Epic Games" title="Riot Games - BRAINIFII" height="22px" width="22px" src="https://raw.githubusercontent.com/brainifii/brainifii/master/Static/valo.svg">
+    <img align="left" alt="Valorant" title="Riot Games - BRAINIFII" height="22px" width="22px" src="https://raw.githubusercontent.com/brainifii/brainifii/master/Static/valo.svg">
 </a>
 
 </div>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=brainifii.brainifii)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=brainifii.brainifii) -->
 
-</br>
+</br></br>
 
-Hi, I'm Kritik Bangera,
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In accumsan viverra lorem. In sed ipsum eu felis vulputate posuere. In in lacus facilisis, pharetra diam vel, ornare metus. Aliquam sagittis commodo magna, a tristique lectus varius a. Morbi suscipit urna eget lobortis gravida. Pellentesque ornare ullamcorper leo, eu euismod diam accumsan non. Duis dignissim, orci vitae porta tincidunt, nisl dolor consequat metus, sit amet dictum turpis urna in libero. Nulla viverra odio libero.
+
+Aliquam felis nunc, fringilla ut tincidunt eu, sollicitudin eu arcu.Mauris placerat blandit magna eget convallis. Phasellus vitae nunc eu nisl condimentum posuere eleifend in nulla.
+
+📫 How to reach me: [@brainifii](https:/www.instagram.com/brainifii)
+<!-- * 📝 [Resume]() -->
 
 </br>
 
 <p align="center">
 </br>
-<img src="https://github-readme-stats.vercel.app/api?username=BRAINIFII&show_icons=true&bg_color=0D1117&text_color=D9D9D9&border_radius=30&hide_border=true&include_all_commits=true&count_private=true&custom_title=My GitHub Stats" alt="BRAINIFII" />
+<img src="https://github-readme-stats.vercel.app/api?username=BRAINIFII&show_icons=true&bg_color=0D1117&text_color=D9D9D9&border_radius=30&include_all_commits=true&count_private=true&custom_title=My GitHub Stats" alt="BRAINIFII" />
 </p>
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+JavaScript   9 hrs 9 mins    █████████████▒░░░░░░░░░░░   53.17 %
+JSX          5 hrs 33 mins   ████████░░░░░░░░░░░░░░░░░   32.22 %
+SCSS         2 hrs 24 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.97 %
+JSON         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+```
+<!--END_SECTION:waka-->
