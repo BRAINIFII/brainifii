@@ -55,7 +55,7 @@
 * 👨‍💻 With great technology comes great responsiblities.
 * 🤖 Love everything about robotics.
 * 🧠 AI Enthusiast.
-* <img align="left" height="22px" width="22px" src="https://raw.githubusercontent.com/brainifii/brainifii/master/Static/marvel.svg">Huge marvel Fan.
+* 🦸‍♂️ Huge marvel Fan.
 * 🎧 Can't go a day without music.
 * 📫 How to reach me: [@brainifii](https:/www.instagram.com/brainifii)
 <!-- * 📝 [Resume]() -->
@@ -76,8 +76,8 @@ No Activity tracked this Week
 ## Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  200 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 0 tasks so far           
+🏆  200 Karma Points
+🌸  Completed 0 tasks today
+✅  Completed 0 tasks so far
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
