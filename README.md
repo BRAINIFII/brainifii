@@ -45,7 +45,7 @@
 </div>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=brainifii.brainifii)
-[![wakatime](https://wakatime.com/badge/github/BRAINIFII/brainifii.svg)](https://wakatime.com/badge/github/BRAINIFII/brainifii)
+<!-- [![wakatime](https://wakatime.com/badge/github/BRAINIFII/brainifii.svg)](https://wakatime.com/badge/github/BRAINIFII/brainifii) -->
 
 </br>
 
@@ -54,7 +54,7 @@
 * ⚙ Technology facinates me more than humans.
 * 👨‍💻 With great technology comes great responsiblities.
 * 🤖 Love everything about robotics.
-* 🧠 AI Enthusiast.
+* 🧠 An AI Enthusiast.
 * 🦸‍♂️ Huge marvel Fan.
 * 🎧 Can't go a day without music.
 * 📫 How to reach me: [@brainifii](https:/www.instagram.com/brainifii)
