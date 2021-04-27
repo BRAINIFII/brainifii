@@ -64,10 +64,4 @@ Aliquam felis nunc, fringilla ut tincidunt eu, sollicitudin eu arcu.Mauris place
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-```text
-JavaScript   9 hrs 9 mins    █████████████▒░░░░░░░░░░░   53.17 %
-JSX          5 hrs 33 mins   ████████░░░░░░░░░░░░░░░░░   32.22 %
-SCSS         2 hrs 24 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.97 %
-JSON         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-```
 <!--END_SECTION:waka-->
