@@ -1,6 +1,11 @@
 ## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Kritik Bangera
 
 <div align="center">
+
+<a href="https:/www.instagram.com/brainifii">
+  <img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/brainifii/brainifii/master/Static/instagram.svg" />
+</a>
+
 <a href="https://discord.gg/4GyNh3JcRa">
   <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -34,7 +39,7 @@
 </a>
 
 <a href="#">
-    <img align="left" alt="Epic Games" title="Epic Games - BRAINIFII" height="22px" width="22px" src="https://raw.githubusercontent.com/brainifii/brainifii/master/Static/valo.svg">
+    <img align="left" alt="Epic Games" title="Riot Games - BRAINIFII" height="22px" width="22px" src="https://raw.githubusercontent.com/brainifii/brainifii/master/Static/valo.svg">
 </a>
 
 </div>
