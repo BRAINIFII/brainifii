@@ -51,11 +51,12 @@
 
 💁‍♂️ **Some words about me -**
 </br>
-* Technology facinates me more than humans.
-* With great technology comes great responsiblities.
-* Love everything about robotics.
-* AI Enthusiast.
-* Can't go a day without music.
+* ⚙ Technology facinates me more than humans.
+* 👨‍💻 With great technology comes great responsiblities.
+* 🤖 Love everything about robotics.
+* 🧠 AI Enthusiast.
+* <img align="left" height="22px" width="22px" src="https://raw.githubusercontent.com/brainifii/brainifii/master/Static/marvel.svg">Huge marvel Fan.
+* 🎧 Can't go a day without music.
 * 📫 How to reach me: [@brainifii](https:/www.instagram.com/brainifii)
 <!-- * 📝 [Resume]() -->
 
