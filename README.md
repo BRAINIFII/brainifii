@@ -45,12 +45,11 @@
 </div>
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=brainifii.brainifii) -->
+[![wakatime](https://wakatime.com/badge/github/BRAINIFII/brainifii.svg)](https://wakatime.com/badge/github/BRAINIFII/brainifii)
 
 </br></br>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In accumsan viverra lorem. In sed ipsum eu felis vulputate posuere. In in lacus facilisis, pharetra diam vel, ornare metus. Aliquam sagittis commodo magna, a tristique lectus varius a. Morbi suscipit urna eget lobortis gravida. Pellentesque ornare ullamcorper leo, eu euismod diam accumsan non. Duis dignissim, orci vitae porta tincidunt, nisl dolor consequat metus, sit amet dictum turpis urna in libero. Nulla viverra odio libero.
-
-Aliquam felis nunc, fringilla ut tincidunt eu, sollicitudin eu arcu.Mauris placerat blandit magna eget convallis. Phasellus vitae nunc eu nisl condimentum posuere eleifend in nulla.
+I am a
 
 📫 How to reach me: [@brainifii](https:/www.instagram.com/brainifii)
 <!-- * 📝 [Resume]() -->
@@ -62,12 +61,15 @@ Aliquam felis nunc, fringilla ut tincidunt eu, sollicitudin eu arcu.Mauris place
 <img src="https://github-readme-stats.vercel.app/api?username=BRAINIFII&show_icons=true&bg_color=0D1117&text_color=D9D9D9&border_radius=30&include_all_commits=true&count_private=true&custom_title=My GitHub Stats" alt="BRAINIFII" />
 </p>
 
-📊 **This Week I Spent My Time On:**
+## 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-<<<<<<< HEAD
-=======
 ```text
 No Activity tracked this Week
 ```
->>>>>>> 909a388c4ef216fe653570a4575978e4f022374b
 <!--END_SECTION:waka-->
+
+## Todoist Stats
+
+<!-- TODO-IST:START -->
+
+<!-- TODO-IST:END -->
