@@ -44,20 +44,24 @@
 
 </div>
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=brainifii.brainifii) -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=brainifii.brainifii)
 [![wakatime](https://wakatime.com/badge/github/BRAINIFII/brainifii.svg)](https://wakatime.com/badge/github/BRAINIFII/brainifii)
 
-</br></br>
+</br>
 
-I am a
-
-📫 How to reach me: [@brainifii](https:/www.instagram.com/brainifii)
+💁‍♂️ **Some words about me -**
+</br>
+* Technology facinates me more than humans.
+* With great technology comes great responsiblities.
+* Love everything about robotics.
+* AI Enthusiast.
+* Can't go a day without music.
+* 📫 How to reach me: [@brainifii](https:/www.instagram.com/brainifii)
 <!-- * 📝 [Resume]() -->
 
 </br>
 
 <p align="center">
-</br>
 <img src="https://github-readme-stats.vercel.app/api?username=BRAINIFII&show_icons=true&bg_color=0D1117&text_color=D9D9D9&border_radius=30&include_all_commits=true&count_private=true&custom_title=My GitHub Stats" alt="BRAINIFII" />
 </p>
 
@@ -67,6 +71,8 @@ I am a
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+
+</br>
 
 ## Todoist Stats
 
