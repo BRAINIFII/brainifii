@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https:/www.instagram.com/brainifii">
+<a href="www.instagram.com/brainifii">
   <img align="left" alt="Instagram" title="Instagram - BRAINIFII" width="22px" src="https://raw.githubusercontent.com/brainifii/brainifii/master/Static/instagram.svg" />
 </a>
 
@@ -69,16 +69,16 @@
 ## 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Markdown   5 hrs 3 mins    ████████████████████████▓   99.14 % 
-Other      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Markdown   5 hrs 3 mins    ████████████████████████▓   99.14 %
+Other      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 <!--END_SECTION:waka-->
 
 ## Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  267 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 1 tasks so far           
+🏆  267 Karma Points
+🌸  Completed 0 tasks today
+✅  Completed 1 tasks so far
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
