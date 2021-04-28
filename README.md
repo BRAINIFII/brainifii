@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https:/www.instagram.com/brainifii">
+<a href="https://www.instagram.com/brainifii/">
   <img align="left" alt="Instagram" title="Instagram - BRAINIFII" width="22px" src="https://raw.githubusercontent.com/brainifii/brainifii/master/Static/instagram.svg" />
 </a>
 
