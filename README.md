@@ -69,8 +69,8 @@
 ## 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Markdown   5 hrs 3 mins    ████████████████████████▓   99.14 % 
-Other      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Markdown   5 hrs 3 mins    ████████████████████████▓   99.14 %
+Other      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 <!--END_SECTION:waka-->
 
@@ -82,3 +82,9 @@ Other      2 mins          ▒░░░░░░░░░░░░░░░░�
 ✅  Completed 1 tasks so far
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
+
+## My Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=brainifii&theme=onedark&margin-w=10&margin-h=10)
+
+## My Most used languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brainifii&hide=C,XC,XS,Assembly,Makefile,Shell,Powershell&langs_count=8&layout=compact)
