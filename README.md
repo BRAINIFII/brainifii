@@ -66,17 +66,20 @@
 <img src="https://github-readme-stats.vercel.app/api?username=BRAINIFII&show_icons=true&bg_color=0D1117&text_color=D9D9D9&border_radius=30&include_all_commits=true&count_private=true&custom_title=My GitHub Stats" alt="BRAINIFII" />
 </p>
 
-</br>
+## 📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+Markdown   5 hrs 3 mins    ████████████████████████▓   99.14 %
+Other      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+HTML    3 hrs 9 mins    ██████████▒░░░░░░░░░░░░░░   41.79 %
+Other   2 hrs 11 mins   ███████▒░░░░░░░░░░░░░░░░░   28.96 %
+CSS     55 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
+INI     27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
+PHP     24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+```
+<!--END_SECTION:waka-->
 
-## 📊 This Week I Spent My Time On:
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=brainifii"/>
-</p>
-
-</br>
-
-## 📓 Todoist Stats
+## Todoist Stats
 
 <!-- TODO-IST:START -->
 🏆  531 Karma Points
@@ -85,9 +88,7 @@
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
 
-</br>
-
-## 🏆 My Trophies
+## My Trophies
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=brainifii&theme=onedark&margin-w=10&margin-h=10"/>
 </p>
