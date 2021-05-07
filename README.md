@@ -89,7 +89,11 @@ PHP     24 mins         █▒░░░░░░░░░░░░░░░░�
 <!-- TODO-IST:END -->
 
 ## My Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=brainifii&theme=onedark&margin-w=10&margin-h=10)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=brainifii&theme=onedark&margin-w=10&margin-h=10"/>
+</p>
 
 ## My Most used languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brainifii&hide=C,XC,XS,Assembly,Makefile,Shell,Powershell&langs_count=8&layout=compact)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brainifii&hide=C,XC,XS,Assembly,Makefile,Shell,Powershell&langs_count=8&layout=compact"/>
+</p>
