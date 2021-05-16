@@ -81,8 +81,8 @@ CSS        2 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!-- TODO-IST:START -->
 🏆  775 Karma Points           
-🌸  Completed 1 tasks today           
-✅  Completed 9 tasks so far           
+🌸  Completed 4 tasks today           
+✅  Completed 12 tasks so far           
 ⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
 
