@@ -77,7 +77,7 @@ PHP    1 min           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀
 
 <!-- TODO-IST:START -->
 🏆  2,000 Karma Points           
-🌸  Completed 10 tasks today           
+🌸  Completed 0 tasks today           
 ✅  Completed 52 tasks so far           
 ⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
