@@ -76,9 +76,9 @@ PHP    1 min           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀
 ## Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  1,871 Karma Points           
-🌸  Completed 1 tasks today           
-✅  Completed 43 tasks so far           
+🏆  1,914 Karma Points           
+🌸  Completed 8 tasks today           
+✅  Completed 50 tasks so far           
 ⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
 
