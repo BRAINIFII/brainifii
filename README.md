@@ -76,9 +76,9 @@ HTML   1 hr 23 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ## Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  2,624 Karma Points           
-🌸  Completed 11 tasks today           
-✅  Completed 88 tasks so far           
+🏆  2,720 Karma Points           
+🌸  Completed 15 tasks today           
+✅  Completed 92 tasks so far           
 ⏳  Longest streak is 2 days
 <!-- TODO-IST:END -->
 
