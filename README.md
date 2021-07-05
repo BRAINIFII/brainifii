@@ -77,7 +77,7 @@ Python       20 mins         ⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ## Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  2,817 Karma Points           
+🏆  2,860 Karma Points           
 🌸  Completed 0 tasks today           
 ✅  Completed 97 tasks so far           
 ⏳  Longest streak is 2 days
