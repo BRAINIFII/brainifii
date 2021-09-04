@@ -78,7 +78,7 @@ CSV      25 mins         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  3,303 Karma Points           
+🏆  3,351 Karma Points           
 🌸  Completed 0 tasks today           
 ✅  Completed 127 tasks so far           
 ⏳  Longest streak is 2 days
