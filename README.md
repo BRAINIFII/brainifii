@@ -83,7 +83,7 @@ Git          7 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ## Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  5,908 Karma Points           
+🏆  5,951 Karma Points           
 🌸  Completed 6 tasks today           
 ✅  Completed 252 tasks so far           
 ⏳  Longest streak is 2 days
