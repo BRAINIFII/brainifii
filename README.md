@@ -63,7 +63,7 @@ Other        1 hr 12 mins    ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-## Todoist Stats
+## **Todoist Stats:**
 
 <!-- TODO-IST:START -->
 🏆  6,037 Karma Points           
