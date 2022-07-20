@@ -1,6 +1,6 @@
 <div>
     <p align="center">
-    <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/Github.png" height="100px">
+    <img src="https://raw.githubusercontent.com/BRAINIFII/brainifii/master/Static/Github.png">
   </p>
 </div>
 <div>
