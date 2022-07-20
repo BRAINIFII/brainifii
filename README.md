@@ -5,23 +5,22 @@
 </div>
 <div>
   <p align="center">
-<a href="https://www.instagram.com/brainifii/">
-  <img alt="Instagram" title="Instagram - BRAINIFII" width="22px" src="https://raw.githubusercontent.com/brainifii/brainifii/master/Static/instagram.svg" />
+<a href="https://www.instagram.com/brainifii/" style="padding-right: 20px;">
+  <img alt="Instagram" title="Instagram - BRAINIFII" width="22px" src="https://raw.githubusercontent.com/brainifii/brainifii/master/Static/instagram.svg"/>
 </a>
-
-<a href="https://discord.gg/4GyNh3JcRa">
+<a href="https://discord.gg/4GyNh3JcRa" style="padding-right: 20px;">
   <img title="Discord" alt="Discord -BRAINIFII" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
-<a href="https://twitter.com/kritikbangera">
+<a href="https://twitter.com/kritikbangera" style="padding-right: 20px;">
   <img alt="Twitter" title="Twitter - @kritik.bangera"  width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/brainifii/">
+<a href="https://www.linkedin.com/in/brainifii/" style="padding-right: 20px;">
   <img alt="LinkedIN" title="LinkedIN - Kritik Bangera" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<a href="https://youtube.com/brainifii">
+<a href="https://youtube.com/brainifii" style="padding-right: 20px;">
     <img alt="YouTube" title="Youtube - BRAINIFII" title="YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg">
 </a>
 
