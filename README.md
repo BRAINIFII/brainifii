@@ -1,44 +1,36 @@
-## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Kritik Bangera
-
-<div align="center">
-
+<div>
+    <p align="center">
+    <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/Github.png" height="100px">
+  </p>
+</div>
+<div>
+  <p align="center">
 <a href="https://www.instagram.com/brainifii/">
-  <img align="left" alt="Instagram" title="Instagram - BRAINIFII" width="22px" src="https://raw.githubusercontent.com/brainifii/brainifii/master/Static/instagram.svg" />
+  <img alt="Instagram" title="Instagram - BRAINIFII" width="22px" src="https://raw.githubusercontent.com/brainifii/brainifii/master/Static/instagram.svg" />
 </a>
 
 <a href="https://discord.gg/4GyNh3JcRa">
-  <img align="left"  title="Discord" alt="Discord -BRAINIFII" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img title="Discord" alt="Discord -BRAINIFII" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
 <a href="https://twitter.com/kritikbangera">
-  <img align="left" alt="Twitter" title="Twitter - @kritik.bangera"  width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img alt="Twitter" title="Twitter - @kritik.bangera"  width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/brainifii/">
-  <img align="left" alt="LinkedIN" title="LinkedIN - Kritik Bangera" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="LinkedIN" title="LinkedIN - Kritik Bangera" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <a href="https://youtube.com/brainifii">
-    <img align="left" alt="YouTube" title="Youtube - BRAINIFII" title="YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg">
-</a>
-
-<a href="https://steamcommunity.com/id/brainifii">
-    <img align="left" alt="Steam" title="Steam - BRAINIFII" height="22px" width="22px" src="https://raw.githubusercontent.com/brainifii/brainifii/master/Static/steam.svg">
+    <img alt="YouTube" title="Youtube - BRAINIFII" title="YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg">
 </a>
 
 <a href="#">
-    <img align="left" alt="Epic Games" title="Epic Games - BRAINIFII" height="22px" width="22px" src="https://raw.githubusercontent.com/brainifii/brainifii/master/Static/epic.svg">
+    <img alt="Visitors" title="Visitors" title="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=brainifii.brainifii">
 </a>
 
-<a href="#">
-    <img align="left" alt="Valorant" title="Riot Games - BRAINIFII" height="22px" width="22px" src="https://raw.githubusercontent.com/brainifii/brainifii/master/Static/valo.svg">
-</a>
-
+</p>
 </div>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=brainifii.brainifii)
-<!-- [![wakatime](https://wakatime.com/badge/github/BRAINIFII/brainifii.svg)](https://wakatime.com/badge/github/BRAINIFII/brainifii) -->
-
 </br>
 
 💁‍♂️ **Some words about me -**
@@ -53,10 +45,13 @@
 <!-- * 📝 [Resume]() -->
 
 </br>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BRAINIFII&show_icons=true&bg_color=0D1117&text_color=D9D9D9&border_radius=30&include_all_commits=true&count_private=true&custom_title=My GitHub Stats" alt="BRAINIFII" />
-</p>
+<div>
+  <p align="center">
+  <b><em>GitHub Stats:</em></b> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=brainifii" alt="GitHub Stats" /> <br/><br/>
+  <b>
+  </p>
+</div>
 
 ## 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
@@ -72,9 +67,9 @@ Other        1 hr 12 mins    ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ## Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  6,037 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 261 tasks so far           
+🏆  6,037 Karma Points
+🌸  Completed 0 tasks today
+✅  Completed 261 tasks so far
 ⏳  Longest streak is 2 days
 <!-- TODO-IST:END -->
 
