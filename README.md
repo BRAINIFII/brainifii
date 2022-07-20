@@ -18,14 +18,6 @@
   <img align="left" alt="LinkedIN" title="LinkedIN - Kritik Bangera" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<a href="https://www.facebook.com/kritik.bangera">
-    <img align="left" alt="Facebook" title="Facebook - Kritik Bangera" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg">
-</a>
-
-<a href="https://open.spotify.com/user/a7gsun30kczh9p4c4kt4cwqfe?si=6c4fae6b00b6436a">
-  <img align="left" alt="Spotify" title="Spotify - BRAINIFII"  width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-
 <a href="https://youtube.com/brainifii">
     <img align="left" alt="YouTube" title="Youtube - BRAINIFII" title="YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg">
 </a>
