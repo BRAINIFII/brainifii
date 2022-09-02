@@ -39,7 +39,7 @@
 * 🤖 Love everything about robotics.
 * 🧠 An AI Enthusiast.
 * 🦸‍♂️ Huge marvel Fan.
-* 📫 How to reach me: [@brainifii](https://instagram.com/brainifii/){:target="_blank" rel="noopener"}
+* 📫 How to reach me: [@brainifii](https://instagram.com/brainifii/)
 <!-- * 📝 [Resume]() -->
 
 </br>
