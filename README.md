@@ -40,7 +40,7 @@
 * 🧠 An AI Enthusiast.
 * 🦸‍♂️ Huge marvel Fan.
 * 🎧 Can't go a day without music.
-* 📫 How to reach me: <a href="https://youtube.com/brainifii">@brainifii</a>
+* 📫 How to reach me: <a href="https://instagram.com/brainifii" target="_blank">@brainifii</a>
 <!-- * 📝 [Resume]() -->
 
 </br>
