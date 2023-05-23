@@ -24,10 +24,6 @@
     <img alt="YouTube" title="Youtube - BRAINIFII" title="YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg">
 </a>
 
-<a href="#">
-    <img alt="Visitors" title="Visitors" title="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=brainifii.brainifii">
-</a>
-
 </p>
 </div>
 </br>
