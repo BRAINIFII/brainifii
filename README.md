@@ -50,7 +50,7 @@
 ## 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 
-```text
+```txt
 From: 25 May 2023 - To: 01 June 2023
 
 Total Time: 1 hr 17 mins
