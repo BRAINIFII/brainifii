@@ -51,14 +51,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 June 2023 - To: 27 June 2023
+From: 21 June 2023 - To: 28 June 2023
 
-Total Time: 19 mins
+Total Time: 2 hrs 5 mins
 
-Python       18 mins         >>>>>>>>>>>>>>>>>>>>>>>>-   96.58 %
-JSON         0 secs          >------------------------   02.80 %
-Text         0 secs          -------------------------   00.46 %
-Git Config   0 secs          -------------------------   00.17 %
+TypeScript   1 hr 49 mins    >>>>>>>>>>>>>>>>>>>>>>---   86.86 %
+Markdown     8 mins          >>-----------------------   06.95 %
+HTML         6 mins          >------------------------   05.07 %
+Python       1 min           -------------------------   00.91 %
+YAML         0 secs          -------------------------   00.16 %
+JSON         0 secs          -------------------------   00.06 %
 ```
 
 <!--END_SECTION:waka-->
