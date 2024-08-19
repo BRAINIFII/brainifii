@@ -51,11 +51,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 August 2024 - To: 18 August 2024
+From: 12 August 2024 - To: 19 August 2024
 
-Total Time: 7 mins
+Total Time: 18 mins
 
-JSON   7 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+Bash   10 mins         >>>>>>>>>>>>>>>----------   58.05 %
+JSON   7 mins          >>>>>>>>>>---------------   41.95 %
 ```
 
 <!--END_SECTION:waka-->
