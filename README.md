@@ -31,7 +31,7 @@
 💁‍♂️ **Some words about me -**
 </br>
 * ⚙ Technology facinates me more than humans.
-* 👨‍💻 With great technology comes great responsiblities.
+* 👨‍💻 With great tech comes great responsiblities.
 * 🤖 Love everything about robotics.
 * 🧠 An AI Enthusiast.
 * 🦸‍♂️ Huge marvel Fan.
