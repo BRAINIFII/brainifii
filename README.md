@@ -37,26 +37,3 @@
 * 🦸‍♂️ Huge marvel Fan.
 * 📫 How to reach me: [@brainifii](https://instagram.com/brainifii/)
 <!-- * 📝 [Resume]() -->
-
-</br>
-<div>
-  <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=brainifii" alt="GitHub Stats" /> <br/><br/>
-  <b>
-  </p>
-</div>
-
-## **Todoist Stats:**
-
-<!-- TODO-IST:START -->
-🏆  12,903 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 1,104 tasks so far           
-⏳  Longest streak is 5 days
-<!-- TODO-IST:END -->
-
-## My Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=brainifii&theme=onedark&margin-w=10&margin-h=10"/>
-</p>
